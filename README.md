@@ -31,5 +31,10 @@ content
          
 <details>
      <summary><strong>References</strong> (click to expand)</summary>
-       <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+       <ul>
+        <li>First item</li>
+        <li>Second item</li>
+        <li>Third item</li>
+        <li>Fourth item</li>
+      </ul>
 </details>
