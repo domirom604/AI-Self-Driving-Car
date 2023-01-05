@@ -23,7 +23,7 @@ content
 </details>
 
 <details> 
-    <summary>**Training** (click to expand)</summary> 
+    <summary> <strong>Training</strong> (click to expand)</summary> 
        <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
          
