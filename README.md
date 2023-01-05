@@ -13,12 +13,12 @@ content
 # Usage
 
 <details>
-    <summary>Installation (click to expand)</summary>
+    <summary><strong>Installation</strong> (click to expand)</summary>
       <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
          
 <details>
-    <summary>Configuration (click to expand)</summary>
+    <summary><strong>Configuration</strong> (click to expand)</summary>
        <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
 
@@ -28,6 +28,6 @@ content
 </details>
          
 <details>
-     <summary>References (click to expand)</summary>
+     <summary><strong>References</strong> (click to expand)</summary>
        <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
