@@ -34,7 +34,7 @@ content
        <ul>
         <li>https://pypi.org/project/KerasGA/</li>
         <li>https://www.tensorflow.org/api_docs/python/tf/keras/Model#predict</li>
-        <li>Third item</li>
-        <li>Fourth item</li>
+        <li>https://www.pygame.org/docs/</li>
+        <li>https://keras.io/guides/sequential_model/</li>
       </ul>
 </details>
