@@ -22,8 +22,8 @@
        <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
 
-<details> (click to expand)
-    <summary>Training</summary>
+<details> 
+    <summary>Training</summary> (click to expand)
        <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
          
