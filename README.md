@@ -5,12 +5,12 @@
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-# Features
+## Features
 content
 
-# Model
+## Model
 content
-# Usage
+## Usage
 
 <details>
     <summary><strong>Installation</strong> (click to expand)</summary>
