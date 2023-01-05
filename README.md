@@ -1,5 +1,9 @@
 # AI-Self-Driving-Car
-[alt text](https://github.com/[domirom604]/[AI-Self-Driving-Car]/blob/[branch]/track.png?raw=true)
+<img
+  src="/path/to/track.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 # Features
 2
