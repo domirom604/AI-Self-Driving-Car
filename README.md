@@ -1,5 +1,5 @@
 <h1 align="center"> <strong> AI-Self-Driving-Car </strong> </h1>
-small description
+Easy to use and helpful in advanced simulations
 
 <img
   src="https://github.com/domirom604/AI-Self-Driving-Car/blob/main/logo.png"
