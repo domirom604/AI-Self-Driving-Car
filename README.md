@@ -22,6 +22,12 @@ content
         <li> Keras >= 2.11.0 </li>
         <li> Tensorflow >= 2.11.0 </li>
         <li> Basic libraries like: pandas, numpy, pillow </li>
+         Then, clone the repo and install the project with:
+         
+          $ git clone 
+          $ cd 
+          $ pip install -e .
+         
       </ul>
 </details>
          
