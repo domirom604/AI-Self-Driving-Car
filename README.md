@@ -25,8 +25,8 @@ content
        </ul>
          Then, clone the repo and install the project with:
          
-          $ git clone 
-          $ cd 
+          $ git clone https://github.com/domirom604/AI-Self-Driving-Car
+          $ cd AI-Self-Driving-Car
           $ pip install -e .
          
       
