@@ -5,7 +5,7 @@
   src="https://github.com/domirom604/AI-Self-Driving-Car/blob/main/logo.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 200px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 
 ## Features
 <ul>
