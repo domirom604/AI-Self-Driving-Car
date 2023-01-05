@@ -23,7 +23,7 @@
 </details>
 
 <details> 
-    <summary>Training</summary> (click to expand)
+    <summary>Training (click to expand)</summary> 
        <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
          
