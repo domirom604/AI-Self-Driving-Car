@@ -32,8 +32,8 @@ content
 <details>
      <summary><strong>References</strong> (click to expand)</summary>
        <ul>
-        <li>First item</li>
-        <li>Second item</li>
+        <li>https://pypi.org/project/KerasGA/</li>
+        <li>https://www.tensorflow.org/api_docs/python/tf/keras/Model#predict</li>
         <li>Third item</li>
         <li>Fourth item</li>
       </ul>
