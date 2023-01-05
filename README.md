@@ -6,28 +6,28 @@
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 # Features
-2
+content
 
 # Model
-3
+content
 # Usage
 
 <details>
-    <summary>Installation</summary>
+    <summary>Installation (click to expand)</summary>
       <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
          
 <details>
-    <summary>Configuration</summary>
+    <summary>Configuration (click to expand)</summary>
        <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
 
 <details> 
-    <summary>Training (click to expand)</summary> 
+    <summary>**Training** (click to expand)</summary> 
        <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
          
 <details>
-     <summary>References</summary>
+     <summary>References (click to expand)</summary>
        <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
