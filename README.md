@@ -33,6 +33,11 @@
   </li>
 </ul>
 
+<img
+  src="https://github.com/domirom604/AI-Self-Driving-Car/blob/main/topology.png"
+  alt="Alt text"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  
 <ul>
   <li>Output:
     <ul>
