@@ -8,7 +8,19 @@
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ## Features
-content
+<ul>
+  <li>Real simulation of physics</li>
+  <li>Three application modes:
+    <ul>
+      <li>Casual game</li>
+      <li>Study and experimental mode</li>
+      <li>Mode of testing learned model</li>
+    </ul>
+  </li>
+  <li>Well-adjusted genetic algorithm</li>
+  <li>Algorithm can be adapted for any simulation map</li>
+  <li>Ability to adjust the accuracy of the simulation</li>
+</ul>
 
 ## Model
 content
