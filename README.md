@@ -16,7 +16,13 @@ content
 
 <details>
     <summary><strong>Installation</strong> (click to expand)</summary>
-      <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+       <ul>
+        <li> Python >= 3.8 </li>
+        <li> KerasGA = 1.0.0 </li>
+        <li> Keras >= 2.11.0 </li>
+        <li> Tensorflow >= 2.11.0 </li>
+        <li> Basic libraries like: pandas, numpy, pillow </li>
+      </ul>
 </details>
          
 <details>
