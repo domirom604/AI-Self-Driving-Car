@@ -22,7 +22,7 @@
        <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
 
-<details>
+<details> (click to expand)
     <summary>Training</summary>
        <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
