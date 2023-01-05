@@ -1,14 +1,40 @@
-# AI-Self-Driving-Car
+<h1 align="center"> <strong> AI-Self-Driving-Car </strong> </h1>
+small description
+
 <img
-  src="https://github.com/domirom604/AI-Self-Driving-Car/blob/main/track.png"
+  src="https://github.com/domirom604/AI-Self-Driving-Car/blob/main/logo.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-# Features
-2
+## Features
+content
 
-# Model
-3
-# Usage
-3
+## Model
+content
+## Usage
+
+<details>
+    <summary><strong>Installation</strong> (click to expand)</summary>
+      <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+         
+<details>
+    <summary><strong>Configuration</strong> (click to expand)</summary>
+       <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+
+<details> 
+    <summary> <strong>Training</strong> (click to expand)</summary> 
+       <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+         
+<details>
+     <summary><strong>References</strong> (click to expand)</summary>
+       <ul>
+        <li>https://pypi.org/project/KerasGA/</li>
+        <li>https://www.tensorflow.org/api_docs/python/tf/keras/Model#predict</li>
+        <li>https://www.pygame.org/docs/</li>
+        <li>https://keras.io/guides/sequential_model/</li>
+      </ul>
+</details>
