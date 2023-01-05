@@ -23,7 +23,25 @@
 </ul>
 
 ## Model
-content
+<ul>
+  <li>Input:
+    <ul>
+      <li>Information from left sensor</li>
+      <li>Information from middle sensor</li>
+      <li>Information from right sensor</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Output:
+    <ul>
+      <li>Turn left</li>
+      <li>Turn right</li>
+    </ul>
+  </li>
+</ul>
+
 ## Usage
 
 <details>
