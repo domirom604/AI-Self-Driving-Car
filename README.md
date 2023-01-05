@@ -1,4 +1,4 @@
-# AI-Self-Driving-Car
+<h1 align="center"> <strong> AI-Self-Driving-Car </strong> </h1>
 small description
 
 <img
