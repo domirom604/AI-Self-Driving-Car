@@ -69,7 +69,16 @@
          
 <details>
     <summary><strong>Configuration</strong> (click to expand)</summary>
-       <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+       <p>User may configure several parameters like:</p>
+        <ul>
+        <li>velocity of car/simulation in Car Class</li>
+          For example:
+          self.velocity = 1
+        <li>length of sensors in Car Class</li>
+          For example:
+          sensor_length = 120         
+      </ul>
+  
 </details>
 
 <details> 
