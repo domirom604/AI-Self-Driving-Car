@@ -96,7 +96,7 @@
 
 <details> 
     <summary> <strong>Training</strong> (click to expand)</summary> 
-       <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+       <p> </p>
 </details>
          
 <details>
