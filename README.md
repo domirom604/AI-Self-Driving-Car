@@ -99,13 +99,13 @@
        <p> To detect obstacles by car Genetic Algorithm has been implemented</p>
        <p> User may change several parameters in model:</p>
           <ul>
-            <li> hidden layer</li>
-            def model():
-              model = keras.models.Sequential()
-              model.add(keras.layers.Dense(3,activation='relu',input_shape=(3,)))
-              <strong>model.add(keras.layers.Dense(5, activation='relu'))</strong>
-              model.add(keras.layers.Dense(2, activation='sigmoid'))
-              return model
+            <li> hidden layer and input and output parameters</li>
+               <p>def model(): </p>
+                   <p>model = keras.models.Sequential() </p>
+                   <p>model.add(keras.layers.Dense(3,activation='relu',input_shape=(3,))) </p>
+                   <p><strong>model.add(keras.layers.Dense(5, activation='relu'))</strong> </p>
+                   <p>model.add(keras.layers.Dense(2, activation='sigmoid')) </p>
+                   <p>return model </p>
             <li>length of sensors in Car Class</li>
               
          <ul>
