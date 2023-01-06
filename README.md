@@ -106,9 +106,8 @@
                    <p><strong>    model.add(keras.layers.Dense(5, activation='relu'))</strong> </p>
                    <p>    model.add(keras.layers.Dense(2, activation='sigmoid')) </p>
                    <p>return model </p>
-            <li>length of sensors in Car Class</li>
-              
-         <ul>
+            <li> saving model after reaching exact score progress </li>     
+         </ul>
 </details>
          
 <details>
