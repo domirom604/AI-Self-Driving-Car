@@ -96,7 +96,7 @@
 
 <details> 
     <summary> <strong>Evolving</strong> (click to expand)</summary> 
-       <p> To detect obstacles by car Genetic Algorithm has been implemented</p>
+       <p> To detect obstacles by car <strong>Genetic Algorithm</strong> has been implemented</p>
        <p> User may change several parameters in model:</p>
           <ul>
             <li> hidden layer and input and output parameters</li>
