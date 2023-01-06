@@ -95,8 +95,20 @@
 </details>
 
 <details> 
-    <summary> <strong>Training</strong> (click to expand)</summary> 
-       <p> </p>
+    <summary> <strong>Evolving</strong> (click to expand)</summary> 
+       <p> To detect obstacles by car Genetic Algorithm has been implemented</p>
+       <p> User may change several parameters in model:</p>
+          <ul>
+            <li> hidden layer</li>
+            def model():
+              model = keras.models.Sequential()
+              model.add(keras.layers.Dense(3,activation='relu',input_shape=(3,)))
+              <strong>model.add(keras.layers.Dense(5, activation='relu'))</strong>
+              model.add(keras.layers.Dense(2, activation='sigmoid'))
+              return model
+            <li>length of sensors in Car Class</li>
+              
+         <ul>
 </details>
          
 <details>
