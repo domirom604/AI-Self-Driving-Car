@@ -76,7 +76,21 @@
           self.velocity = 1
         <li>length of sensors in Car Class</li>
           For example:
-          sensor_length = 120         
+          sensor_length = 120     
+        <li>application mode in Evolve and Main Class
+            <ul>
+              <li>Casual game by runing main file</li>
+                Main file configuration:
+                game = Play(control="player",model=None)
+              <li>Study and experimental mode by runing evolve file</li>
+                Main file configuration:
+                game = Play(control="keras",model=None)
+              
+               <li>Mode of testing learned model by runing main file</li>
+                Main file configuration:
+                game = Play(control="keras",model=keras.models.load_model('model_15.h5'))
+            </ul>
+         </li>
       </ul>
   
 </details>
